@@ -1,18 +1,5 @@
 # Practica07-Apartamento-VR
-||**VICERRECTORADO DOCENTE**|**Código:** GUIA-PRL-001|
-| :- | :-: | :- |
-||CONSEJO ACADÉMICO|**Aprobación:** 2016/04/06|
-|**Formato:** Guía de Práctica de Laboratorio / Talleres / Centros de Simulación|
 
-![](Práctica%20de%20laboratorio%2007%20-%20Realidad%20Virtual%20(Apartamento%20en%20android)-BryanMendez.002.jpeg)
-![](Práctica%20de%20laboratorio%2007%20-%20Realidad%20Virtual%20(Apartamento%20en%20android)-BryanMendez.003.jpeg)
-
-|<p></p><p>**PRÁCTICA DE LABORATORIO**</p>|
-| :- |
-|**CARRERA**: COMPUTACION|**ASIGNATURA**: HIPERMEDIAL|
-|**NRO. PRÁCTICA**:|7|**TÍTULO PRÁCTICA**: Desarrollo de una aplicación de realidad virtual usando la herramienta Unity y desplegada en un dispositivo móvil Android.|
-|<p></p><p>**OBJETIVO**</p><p></p><p>- Experimenta con aplicaciones de realidad virtual.</p><p>- Experimenta con aplicaciones de realidad aumentada.</p><p>- Distingue la diferencia entre tecnologías de realidad virtual y realidad aumentada.</p>|
-||
 |**ACTIVIDADES POR DESARROLLAR**|
 |<p>1. Crear un repositorio en GitHub con el nombre “Practica07 – Apartamento VR</p><p></p><p></p><p></p><p></p><p>![](Práctica%20de%20laboratorio%2007%20-%20Realidad%20Virtual%20(Apartamento%20en%20android)-BryanMendez.004.png)</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>|
 
